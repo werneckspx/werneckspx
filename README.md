@@ -1,6 +1,6 @@
 ### Opa! Eu sou Felipe Werneck!
 
-  🔭 Estudante de Engenharia da Computação 5/10 
+  🔭 Estudante de Engenharia da Computação 7/10 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=werneckspx&show_icons=true&theme=gruvbox)
 ##
