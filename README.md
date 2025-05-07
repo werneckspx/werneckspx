@@ -1,8 +1,9 @@
 ### Opa! Eu sou Felipe Werneck!
 
-  🔭 Estudante de Engenharia da Computação 7/10 
+  🔭 Estudante de Engenharia da Computação 7/10, com interesse na área de dados, AI e backend.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=werneckspx&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werneckspx&theme=gruvbox&hide=Java,C++,Pascal,Makefile&layout=compact&langs_count=5)
+
 ##
 <div style="display: inline_block"><br>  
   <img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
