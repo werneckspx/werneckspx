@@ -1,6 +1,6 @@
 ### Opa! Eu sou Felipe Werneck!
 
-  🔭 Estudante de Engenharia da Computação 7/10, com interesse na área de dados, AI e backend.
+  🔭 Estudante de Engenharia da Computação 8/10, com interesse na área de dados, AI e backend.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werneckspx&theme=gruvbox&hide=Java,C++,Pascal,Makefile&layout=compact&langs_count=5)
 
